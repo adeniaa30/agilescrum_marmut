@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="max-w-[1440]">
+    <div className="max-w-7xl m-auto">
       <Header />
       <Home />
       <History />
